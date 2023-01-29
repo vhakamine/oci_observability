@@ -21,7 +21,9 @@ Getting Started
     
 Deliverables:
 
-    Create Alarms in Bulk based on CSV (wroking in progress);
+    Create Alarms based on CSV (wroking in progress);
+    Create Event Rule based on CSV (planned);
+    
 
 Contributing
 
